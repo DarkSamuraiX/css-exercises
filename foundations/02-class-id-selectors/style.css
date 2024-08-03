@@ -1,0 +1,16 @@
+p {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.second-number {
+  color: blue;
+  font-size: 36px;
+}
+.third-number {
+  font-size: 24px;
+}
+.forth-number {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
